@@ -23,7 +23,7 @@ Another aspect is that the data set should be formatted in such a way that more 
 
 
 ## ALGORITHM:
-# STEP 1:
+# Step 1:
 Importing the libraries
 # STEP 2:
 Importing the dataset
